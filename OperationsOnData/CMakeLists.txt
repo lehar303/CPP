@@ -1,0 +1,1 @@
+add_executable(operations prg_50.cpp)
