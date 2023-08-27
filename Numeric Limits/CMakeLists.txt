@@ -1,1 +1,5 @@
+project(NumericLimits)
 add_executable(NumLimit prg_56.cpp)
+add_executable(MathOper prg_57.cpp)
+add_executable(WeirdInt prg_58.cpp)
+add_executable(Assign2 Assign2.cpp)
